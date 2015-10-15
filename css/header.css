@@ -1,0 +1,21 @@
+.body { 
+	background-color: #FFFFFF; 
+	font-family: Arial, Verdana, sans-serif; 
+	font-size: 18px; 
+	color: #00008B;
+	}
+.header img {
+	float: left;
+	background: #555;
+}
+.logo img{
+	width: 100px;
+	height: 100px;
+	
+}
+.welcomeBanner img{
+	width: 300px;
+	height: 100px;
+
+	
+}
